@@ -1,0 +1,9 @@
+{
+  "name": "AppIcon-CLI",
+  "version": "1.0.0",
+  "description": "Use to generate app icons for iOS app",
+  "main": "index.js",
+  "repository": "https://github.com/cphana/AppIcon-CLI.git",
+  "author": "c.phana",
+  "license": "MIT"
+}
